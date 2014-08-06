@@ -14,6 +14,13 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section { 
     display: block;
 	}
+
+#testlist li{
+	list-style: circle;
+	margin: 0px 30px 10px;
+	line-height: 1.4em; font-size: 1.2em;
+	background:#ffffff; color: #666666; font-family: Arial, helvetica, sans-serif;
+}
 	
 /* Structure */
 #wrapper {
